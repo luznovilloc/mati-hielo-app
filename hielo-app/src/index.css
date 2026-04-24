@@ -16,7 +16,7 @@
     @apply bg-slate-900 border border-slate-800 rounded-2xl p-4;
   }
   .btn-primary {
-    @apply bg-ice-500 hover:bg-ice-400 text-white font-display font-600 px-4 py-2.5 rounded-xl transition-all active:scale-95 text-sm;
+    @apply bg-ice-500 hover:bg-ice-400 text-white font-display font-semibold px-4 py-2.5 rounded-xl transition-all active:scale-95 text-sm;
   }
   .btn-secondary {
     @apply bg-slate-800 hover:bg-slate-700 text-slate-200 font-body px-4 py-2.5 rounded-xl transition-all active:scale-95 text-sm;
